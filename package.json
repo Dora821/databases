@@ -35,5 +35,8 @@
   "jest": {
     "testRegex": "((\\.|/*.)(spec))\\.js?$",
     "verbose": true
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
